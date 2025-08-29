@@ -12,41 +12,39 @@ Bu projede amaç, modern web servis geliştirme prensiplerini öğrenmek ve uygu
 
 ## Uygulanan Başlıca Konular:
 
-Yazılım Mimarisi: Katmanlı mimari yaklaşımı
+- Yazılım Mimarisi: Katmanlı mimari yaklaşımı
 
-Veritabanı İşlemleri: Entity Framework Core
+- Veritabanı İşlemleri: Entity Framework Core
 
-Nesne Eşleme: AutoMapper ile DTO–Entity dönüşümleri
+- Nesne Eşleme: AutoMapper ile DTO–Entity dönüşümleri
 
-Loglama: NLog entegrasyonu
+- Loglama: NLog entegrasyonu
 
-Asenkron Programlama: Async / Await ile Task tabanlı işlemler
+- Asenkron Programlama: Async / Await ile Task tabanlı işlemler
 
-HTTP ve REST: CRUD operasyonları (GET, POST, PUT, DELETE)
+- HTTP ve REST: CRUD operasyonları (GET, POST, PUT, DELETE)
 
-İleri API Özellikleri:
+- İleri API Özellikleri:
 
-Global hata yönetimi
+    x Global hata yönetimi
 
-Doğrulama (Validation)
+    x Doğrulama (Validation)
 
-Action Filters
+    x Action Filters
 
-İçerik pazarlığı (Content Negotiation)
+    x İçerik pazarlığı (Content Negotiation)
 
-Sayfalama, filtreleme, arama, sıralama, veri şekillendirme
+    x Sayfalama, filtreleme, arama, sıralama, veri şekillendirme
 
-HATEOAS, HEAD, OPTIONS desteği
+    x HATEOAS, HEAD, OPTIONS desteği
 
-API versiyonlama
+    x API versiyonlama
 
-Caching, rate limiting, throttling
+    x Caching, rate limiting, throttling
 
-Kimlik Doğrulama: JWT, Identity ve Refresh Token
+- Kimlik Doğrulama: JWT, Identity ve Refresh Token
 
-API Dokümantasyonu: Swagger
-
-
+- API Dokümantasyonu: Swagger
 
 
 

@@ -45,3 +45,46 @@ Caching, rate limiting, throttling
 Kimlik Doğrulama: JWT, Identity ve Refresh Token
 
 API Dokümantasyonu: Swagger
+
+
+
+
+The goal is to practice and implement modern web service development principles.
+
+
+
+## Key Implemented Features
+
+Software Architecture: Layered architecture
+
+Database Operations: Entity Framework Core
+
+Object Mapping: DTO–Entity mapping with AutoMapper
+
+Logging: NLog implementation
+
+Asynchronous Programming: Task-based operations with Async / Await
+
+HTTP & REST: CRUD operations (GET, POST, PUT, DELETE)
+
+Advanced API Features:
+
+Global error handling
+
+Validation
+
+Action Filters
+
+Content Negotiation
+
+Pagination, filtering, searching, sorting, data shaping
+
+HATEOAS, HEAD, OPTIONS support
+
+API versioning
+
+Caching, rate limiting, throttling
+
+Authentication: JWT, Identity, Refresh Token
+
+API Documentation: Swagger

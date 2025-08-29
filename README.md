@@ -1,4 +1,4 @@
-
+### Store App – ASP.NET Core Web API
 
 
 ASP.NET Core Web API projesi. Katmanlı mimari ile geliştirildi; EF Core, AutoMapper, loglama, doğrulama ve global hata yönetimi uygulandı. Postman üzerinden CRUD işlemleri test edildi. Asenkron programlama, sayfalama, arama, sıralama, filtreleme, veri şekillendirme, HATEOAS, versiyonlama, caching ve JWT tabanlı kimlik doğrulama özellikleri eklendi.
@@ -86,3 +86,53 @@ The goal is to practice and implement modern web service development principles.
 - Authentication: JWT, Identity, Refresh Token
 
 - API Documentation: Swagger
+
+
+
+## Kurulum ve Çalıştırma (Installation & Run)
+
+
+## Gereksinimler
+.NET 6 SDK veya üzeri
+SQL Server 
+Postman (isteğe bağlı, API testleri için)
+
+
+1. Repoyu klonla:
+    ```
+git clone https://github.com/erenmulkoglu96/store-app-aspnet-core-web-api.git
+ ```
+
+3. Bağımlılıkları yükle:
+
+ ```
+dotnet restore
+ ```
+
+3. Migration’ları çalıştır ve veritabanını oluştur:
+
+ ```
+dotnet ef database update
+ ```
+
+4. Uygulamayı başlat:
+ ```
+dotnet run
+ ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

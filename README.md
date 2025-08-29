@@ -26,21 +26,21 @@ Bu projede amaç, modern web servis geliştirme prensiplerini öğrenmek ve uygu
 
 - İleri API Özellikleri:
 
-    x Global hata yönetimi
+    - Global hata yönetimi
 
-    x Doğrulama (Validation)
+    - Doğrulama (Validation)
 
-    x Action Filters
+    - Action Filters
 
-    x İçerik pazarlığı (Content Negotiation)
+    - İçerik pazarlığı (Content Negotiation)
 
-    x Sayfalama, filtreleme, arama, sıralama, veri şekillendirme
+    - Sayfalama, filtreleme, arama, sıralama, veri şekillendirme
 
-    x HATEOAS, HEAD, OPTIONS desteği
+    - HATEOAS, HEAD, OPTIONS desteği
 
-    x API versiyonlama
+    - API versiyonlama
 
-    x Caching, rate limiting, throttling
+    - Caching, rate limiting, throttling
 
 - Kimlik Doğrulama: JWT, Identity ve Refresh Token
 

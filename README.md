@@ -49,8 +49,10 @@ API Dokümantasyonu: Swagger
 
 
 
-The goal is to practice and implement modern web service development principles.
 
+
+
+The goal is to practice and implement modern web service development principles.
 
 
 ## Key Implemented Features

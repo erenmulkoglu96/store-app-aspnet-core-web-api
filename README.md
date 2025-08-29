@@ -94,12 +94,16 @@ The goal is to practice and implement modern web service development principles.
 
 ## Gereksinimler
 .NET 6 SDK veya üzeri
+
 SQL Server 
+
 Postman (isteğe bağlı, API testleri için)
 
 
+
 1. Repoyu klonla:
-    ```
+   
+```
 git clone https://github.com/erenmulkoglu96/store-app-aspnet-core-web-api.git
  ```
 
@@ -116,6 +120,7 @@ dotnet ef database update
  ```
 
 4. Uygulamayı başlat:
+
  ```
 dotnet run
  ```

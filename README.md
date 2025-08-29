@@ -89,17 +89,18 @@ The goal is to practice and implement modern web service development principles.
 
 
 
-## Kurulum ve Çalıştırma (Installation & Run)
+### Kurulum ve Çalıştırma (Installation & Run)
 
 
 ## Gereksinimler
+
 .NET 6 SDK veya üzeri
 
 SQL Server 
 
 Postman (isteğe bağlı, API testleri için)
 
-
+<br></br>
 
 1. Repoyu klonla:
    
@@ -107,11 +108,13 @@ Postman (isteğe bağlı, API testleri için)
 git clone https://github.com/erenmulkoglu96/store-app-aspnet-core-web-api.git
  ```
 
-3. Bağımlılıkları yükle:
+
+2. Bağımlılıkları yükle:
 
  ```
 dotnet restore
  ```
+
 
 3. Migration’ları çalıştır ve veritabanını oluştur:
 
@@ -119,25 +122,9 @@ dotnet restore
 dotnet ef database update
  ```
 
+
 4. Uygulamayı başlat:
 
  ```
 dotnet run
  ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

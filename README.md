@@ -46,8 +46,6 @@ Bu projede amaç, modern web servis geliştirme prensiplerini öğrenmek ve uygu
 
 - API Dokümantasyonu: Swagger
 
-
-
 <br></br>
 <br></br>
 

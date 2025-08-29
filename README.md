@@ -94,12 +94,11 @@ The goal is to practice and implement modern web service development principles.
 
 ### Gereksinimler
 
-.NET 6 SDK veya üzeri
+- .NET 6 SDK veya üzeri
 
-SQL Server 
+- SQL Server 
 
-Postman (isteğe bağlı, API testleri için)
-
+- Postman (isteğe bağlı, API testleri için)
 <br></br>
 
 1. Repoyu klonla:

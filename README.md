@@ -89,10 +89,10 @@ The goal is to practice and implement modern web service development principles.
 
 
 
-### Kurulum ve Çalıştırma (Installation & Run)
+## Kurulum ve Çalıştırma (Installation & Run)
 
 
-## Gereksinimler
+### Gereksinimler
 
 .NET 6 SDK veya üzeri
 
